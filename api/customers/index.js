@@ -4,8 +4,8 @@ const corePlanPriceID = "price_1IVHF9F5dr8554IRZ1W1mOMI"
 
 
 module.exports = async (req, res) => {
-  try {
-    const { id } = await stripe.customers.create({
+  
+   const {id}  = await stripe.customers.create({
       email: req.body.email,
     })
 
@@ -19,14 +19,5 @@ module.exports = async (req, res) => {
       trial_period_days: 15,
     })
 
-    return res.status(200).json({
-      status: 200,
-      message: "Success",
-    })
-  } catch (error) {
-    return res.status(500).json({
-      status: 500,
-      error: err,
-    })
-  }
+    res.send({status: "success"})
 }
