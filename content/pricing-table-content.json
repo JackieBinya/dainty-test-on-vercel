@@ -1,0 +1,487 @@
+[
+  {
+    "category": "Task/Job Limitations",
+    "id": 10,
+    "services": [
+      {
+        "service": "Total simultaneous tasks",
+        "serviceId": 1,
+        "availability": {
+          "core": "1",
+          "plus": "2",
+          "enterprise": "4"
+        }
+      },
+      {
+        "service": "Tasks submissions per month",
+        "serviceId": 2,
+        "availability": {
+          "core": "Unlimited",
+          "plus": "Unlimited",
+          "enterprise": "Unlimited"
+        }
+      }
+    ],
+    "slug": "tasks-category"
+  },
+  {
+    "category": "features",
+    "id": 100,
+    "services": [
+      {
+        "service": "No minimum term, cancel or change plans anytime",
+        "serviceId": 1,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Unlimited concepts and revisions",
+        "serviceId": 2,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Amount of brands / businesses",
+        "serviceId": 3,
+        "availability": {
+          "core": 1,
+          "plus": "Unlimited",
+          "enterprise": "Unlimited"
+        }
+      },
+      {
+        "service": "Per design time frames",
+        "serviceId": 4,
+        "availability": {
+          "core": "2 to 3 plus days",
+          "plus": "2 to 3 plus days",
+          "enterprise": "1 to 3 plus days"
+        }
+      },
+      {
+        "service": "All source files",
+        "serviceId": 5,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Reselling for design tasks",
+        "serviceId": 6,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Priority Support",
+        "serviceId": 6,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "White Labelling",
+        "serviceId": 7,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Development",
+        "serviceId": 7,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Coming Soon"
+        }
+      }
+    ],
+    "slug": "features-category"
+  },
+  {
+    "category": "General Design",
+    "id": 200,
+    "services": [
+      {
+        "service": "Basic Custom Illustrations",
+        "serviceId": 1,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Fillable PDFs",
+        "serviceId": 2,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Powerpoint / Presentation templates",
+        "serviceId": 3,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Decals",
+        "serviceId": 4,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "All file raw working file types",
+        "serviceId": 5,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Social Media Posts",
+        "serviceId": 6,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Advertisement",
+        "serviceId": 7,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Logo Design",
+        "serviceId": 8,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Business Card Design",
+        "serviceId": 9,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Letterhead Design",
+        "serviceId": 10,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Stationary",
+        "serviceId": 11,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "E-Book Cover",
+        "serviceId": 12,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Infographic",
+        "serviceId": 13,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Flyer",
+        "serviceId": 14,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Bronchure",
+        "serviceId": 15,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Packaging",
+        "serviceId": 16,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "T-shirt",
+        "serviceId": 17,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Marketing material designs",
+        "serviceId": 18,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Large booklets",
+        "serviceId": 19,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Icons for website sections",
+        "serviceId": 20,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Favicon",
+        "serviceId": 21,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Email signatures",
+        "serviceId": 22,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Podcast covers",
+        "serviceId": 23,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Tradeshow banners",
+        "serviceId": 24,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "And more...",
+        "serviceId": 25,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      }
+    ],
+    "slug": "general-design-category"
+  },
+  {
+    "category": "Web Design",
+    "id": 300,
+    "services": [
+      {
+        "service": "Development",
+        "serviceId": 1,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Coming Soon"
+        }
+      },
+      {
+        "service": "Mockups",
+        "serviceId": 2,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Wireframes",
+        "serviceId": 3,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Concepts",
+        "serviceId": 4,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Funnel Pages",
+        "serviceId": 5,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Splash Pages",
+        "serviceId": 6,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Landing Pages",
+        "serviceId": 7,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "UI / UX Wireframes",
+        "serviceId": 8,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Call-to-action / Capture forms",
+        "serviceId": 9,
+        "availability": {
+          "core": "Available",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Email signatures",
+        "serviceId": 10,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Email templates",
+        "serviceId": 11,
+        "availability": {
+          "core": "",
+          "plus": "Available",
+          "enterprise": "Available"
+        }
+      }
+    ],
+    "slug": "web-design-category"
+  },
+  {
+    "category": "Enterprise, agencies",
+    "id": 400,
+    "services": [
+      {
+        "service": "Priority Support",
+        "serviceId": 1,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "Smart watch UI design",
+        "serviceId": 2,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      },
+      {
+        "service": "UX / UI design for apps",
+        "serviceId": 3,
+        "availability": {
+          "core": "",
+          "plus": "",
+          "enterprise": "Available"
+        }
+      }
+    ],
+    "slug": "enterprises-agencies-category"
+  }
+]

@@ -1,0 +1,84 @@
+:root {
+    @apply antialiased;
+  
+    font-variant-ligatures: common-ligatures;
+  }
+
+body{
+    @apply font-body;
+    @apply font-normal;
+}
+
+h1, h2, h3, h4, h5,h6 {
+    @apply text-darkColor;
+}
+
+h1{
+    @apply font-semibold;
+    font-size: 3.125rem;
+    line-height: 3.438rem;
+    letter-spacing: -0.02em;
+
+    @screen md{
+        font-size: 2.5rem;
+        line-height: 3.125rem;
+    }
+}
+
+h2{
+    @apply font-semibold;
+    font-size: 2.5rem;
+    line-height: 3.438rem;
+
+    @screen md{
+        @apply text-4xl;  
+    }
+
+    @screen sm{
+        @apply text-xl;
+        line-height: 2.25rem;
+    } 
+}
+
+h3{
+    @apply font-medium;
+    font-size: 2.5rem;
+    line-height:  3.438rem;
+
+    @screen md{
+        @apply text-4xl;
+        line-height: 3.438rem;
+    }
+
+    @screen sm{
+        @apply text-xl;
+        line-height: 1.5rem;
+    } 
+}
+
+h4{
+    @apply font-medium;
+    @apply text-3xl;
+    line-height: 3.125rem;
+
+    @screen sm{
+    @apply text-2xl;  
+    }
+}
+
+h5{
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+}
+
+p{
+    @apply text-lightColor;
+    @apply text-base;
+    line-height: 1.875rem;
+}
+
+
+.nonid-icon-training:before {
+    content: "\e907";
+  }

@@ -1,0 +1,16 @@
+@mixin baseTheme {
+   // Font Family
+   --font-body: "Poppins", "sans-serif";
+   // Dark color
+   --dark-color: #36324a;
+   // Light color
+   --light-color:#6f6c7f;
+   // Accent pink color
+   --acc-pink-color: #f77ade;
+   // Accent purple color
+   --acc-purple-color: #5b39c9;
+  }
+  
+:root {
+   @include baseTheme;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "plan": "core",
+    "monthlyPrice": 99,
+    "annualPrice": 1000,
+    "monthlyPriceId": "price_1IVImBF5dr8554IROIgLmOEH",
+    "annualPriceId": "price_1IPLXICD5ZUxyIJEBBqGaw5G",
+    "headliner": "Perfect for an individual or a single business needing regular designs done for one project at a time.",
+    "services": [
+      { "type": "Unlimited concepts and revisions", "isOffered": true, "serviceId": "1" },
+      { "type": "All source files", "isOffered": true, "serviceId": "3" },
+      { "type": "Print Design", "isOffered": true, "serviceId": "4" },
+      { "type": "High quality work", "isOffered": true, "serviceId": "5" },
+      { "type": "Social Media Posts", "isOffered": true, "serviceId": "6" },
+      { "type": "Advertisements", "isOffered": true, "serviceId": "7" },
+      { "type": "Logo Design", "isOffered": true, "serviceId": "8" },
+      { "type": "Business Card Design", "isOffered": true, "serviceId": "9" },
+      { "type": "Letterhead Design", "isOffered": true, "serviceId": "10" },
+      { "type": "Stationary", "isOffered": true, "serviceId": "11" },
+      { "type": "E-Book Cover", "isOffered": true, "serviceId": "12" },
+      { "type": "Infographic", "isOffered": true, "serviceId": "13" },
+      { "type": "Flyer", "isOffered": true, "serviceId": "14" },
+      { "type": "Brochure", "isOffered": true, "serviceId": "15" },
+      { "type": "Packaging", "isOffered": true, "serviceId": "16" },
+      { "type": "T-shirt", "isOffered": true, "serviceId": "17" },
+      { "type": "and more...", "isOffered": true, "serviceId": "18" },
+      { "type": "No contracts - cancel anytime", "isOffered": true, "serviceId": "19" }
+    ],
+    "id": 1,
+    "slug": "core-plan"
+  },
+  {
+    "plan": "plus",
+    "monthlyPrice": 249,
+    "annualPrice": 3000,
+    "monthlyPriceId": "price_1IVInFF5dr8554IR6PCOPrGq",
+    "annualPriceId": "price_1IPnKPCD5ZUxyIJEvlkrOdxL",
+    "headliner": "If you’re a marketer with multiple clients or a larger business that needs faster turnarounds on marketing assets, this is the plan for you.",
+    "services": [
+      { "type": "All in Core", "isOffered": true, "serviceId": "100" },
+      { "type": "Presentation templates", "isOffered": true, "serviceId": "200" },
+      { "type": "Powerpoint templates", "isOffered": true, "serviceId": "300" },
+      { "type": "Unlimited concepts and revisions ", "isOffered": true, "serviceId": "400" },
+      { "type": "All source files", "isOffered": true, "serviceId": "500" },
+      { "type": "Web Design Mockups", "isOffered": true, "serviceId": "600" },
+      { "type": "Reselling", "isOffered": true, "serviceId": "700" },
+      { "type": "Quality Assurance", "isOffered": true, "serviceId": "800" },
+      { "type": "No contracts - cancel anytime", "isOffered": true, "serviceId": "900" }
+    ],
+    "id": 2,
+    "slug": "plus-plan"
+  },
+  {
+    "plan": "enterprise",
+    "monthlyPrice": 599,
+    "annualPrice": 6000,
+    "monthlyPriceId": "price_1IVIqyF5dr8554IRJNZvIHjq",
+    "annualPriceId": "price_1IPnLcCD5ZUxyIJETYvNfXtF",
+    "headliner": "If you’re a marketer with multiple clients or a larger business that needs faster turnarounds on marketing assets, this is the plan for you.",
+    "services": [
+      { "type": "All in Core & Plus", "isOffered": true, "serviceId": "10" },
+      { "type": "Unlimited concepts and revisions", "isOffered": true, "serviceId": "20" },
+      { "type": "White-labelling", "isOffered": true, "serviceId": "40" },
+      { "type": "Agency support", "isOffered": true, "serviceId": "50" },
+      { "type": "Priority support", "isOffered": true, "serviceId": "60" },
+      { "type": "Basic Custom Illustrations", "isOffered": true, "serviceId": "1000" },
+      { "type": "Fillable PDFs", "isOffered": true, "serviceId": "80" },
+      { "type": "Powerpoint / Presentation templates", "isOffered": true, "serviceId": "90" },
+      { "type": "No contracts - cancel anytime", "isOffered": true, "serviceId": "100" }
+    ],
+    "id": 3,
+    "slug": "enterprise-plan"
+  }
+]
