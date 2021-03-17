@@ -13,5 +13,5 @@
       "use": "@vercel/node"
     }
   ],
-  "rewrites": [{ "source": "/pricing/free-trial", "destination": "/api/trials" }]
+  "rewrites": [{ "source": "/pricing/free-trial", "destination": "/api/trials/customers.js" }]
 }
