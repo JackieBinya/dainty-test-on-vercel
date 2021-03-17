@@ -22,6 +22,7 @@ export default {
     return {
       customer: {},
       error: "",
+      id: ""
     }
   },
   methods: {
@@ -34,17 +35,19 @@ export default {
         body: JSON.stringify(this.customer),
       })
 
-      const { status } = result.json()
+      const { id } = result.json()
 
       this.customer.email = ""
 
-      if (status === 200) {
-        this.$router.push("welcome")
-      }
+      this.id = id
 
-      if (status === 500) {
-        this.error = result.json().error
-      }
+      // if (status === 200) {
+      //   this.$router.push("welcome")
+      // }
+
+      // if (status === 500) {
+      //   this.error = result.json().error
+      // }
     },
   },
 }
