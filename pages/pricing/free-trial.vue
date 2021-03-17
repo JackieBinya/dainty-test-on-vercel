@@ -26,7 +26,7 @@ export default {
   },
   methods: {
     async createFreeTrial() {
-      const result = await fetch("/api/customers", {
+      const result = await fetch("/api/trials/customers", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
